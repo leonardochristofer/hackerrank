@@ -14,7 +14,7 @@
  * | LONG_W       | NUMBER       |
  * -------------------------------
  
- where LAT_N is the northern latitude and LONG_W is the western longitude.
+ * where LAT_N is the northern latitude and LONG_W is the western longitude.
  
  */
 
